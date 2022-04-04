@@ -1,0 +1,183 @@
+{
+    "data": {
+        "home": {
+            "display": true,
+            "firstName": "Kunal Singh",
+            "lastName": "Naruka"
+        },
+        "about": {
+            "display": true,
+            "title1": "Software",
+            "title2": "Developer;",
+            "description": "I'm a <b class='text-sky-600'>software developer</b> based in 📍 Chennai, India. I enjoy delving into different areas of computer science and learning new frameworks and technologies! I have prior experience creating interactive digital experiences for the <b class='text-sky-600'>web and mobile platforms.</b>",
+            "description-web": "Hello! My name is Kunal, and I'm a <b class='text-sky-600'>web developer</b> based in Chennai, India. I work with technologies and frameworks like React, Angular, Node.js, and Express, among others, to create <b class='text-sky-600'>interactive digital experiences</b> on the web.",
+            "resumeLink": "#0"
+        },
+        "socials": {
+            "mail": "ksnkunal@gmail.com",
+            "github": "https://github.com/kvnal",
+            "linkedin": "https://www.linkedin.com/in/kunal-singh-naruka/",
+            "instagram": "#0",
+            "twitter": "#0"
+        },
+        "projects": {
+            "featured": {
+                "display": true,
+                "projects": [
+                    {
+                        "title":"Sanskriti",
+                        "tags":"#Solidity #Vue.js #NODE.js #Face_Recog.",
+                        "github":"#0",
+                        "website":"#0",
+                        "cover":"api/assets/img/sanskriti.png",
+                        "hoverCover": "api/assets/img/sanskriti-2.png"
+
+                    },                
+                    {
+                        "title":"Edlance",
+                        "tags":"#EJS #Solidity #Express #NODE.js",
+                        "github":"#0",
+                        "website":"",
+                        "cover":"api/assets/img/edlance.png",
+                        "hoverCover": "api/assets/img/edlance-2.png"
+                    },                
+                    {
+                        "title":"Sentinel",
+                        "tags":"#MERN #NODE-RED #Twilio #Socket.io",
+                        "github":"#0",
+                        "website":"#0",
+                        "cover":"api/assets/img/sentinel.png",
+                        "hoverCover": "api/assets/img/sentinel-2.png"
+                    },                
+                    {
+                        "title":"Safe Home",
+                        "tags":"#NODE-RED #NODE.js #HTML/Js",
+                        "github":"#0",
+                        "website":"",
+                        "cover":"api/assets/img/safeHome.png",
+                        "hoverCover": "api/assets/img/safeHome-2.png"
+                    }                
+                ]
+            },
+            "other": {
+                "display": true,
+                "projects": [
+                    {
+                        "title":"FitStep",
+                        "tags":"#Kotlin #Firebase #XML",
+                        "github":"#0",
+                        "website":"#0",
+                    "cover":"api/assets/img/fitStep.png",
+                    "hoverCover": "api/assets/img/fitStep-2.png"
+                    },
+                        
+                    {
+                        "title":"Spodify Jersey Edition",
+                        "tags":"#React #Art #Fun",
+                        "github":"#0",
+                        "website":"#0",
+                    "cover":"api/assets/img/spodifyJersey.png",
+                    "hoverCover": "api/assets/img/spodifyJersey-2.png"
+                    },
+
+                        
+                        {
+                            "title":"Catch Me If You Can",
+                            "tags":"#Game #Fun #Useless",
+                            "github":"#0",
+                            "website":"#0",
+                        "cover":"api/assets/img/cmiuc.png",
+                        "hoverCover": "api/assets/img/cmiuc-2.png"
+                        },
+                        {
+                            "title":"Only Cheems",
+                            "tags":"#MERN #Video_Sharing",
+                            "github":"#0",
+                            "website":"#0",
+                        "cover":"api/assets/img/onlyCheems.png",
+                        "hoverCover": "api/assets/img/onlyCheems-2.png"
+                    },
+                        {
+                            "title":"Riddim Ai",
+                            "tags":"#React #TensorFlow #AI #Music",
+                            "github":"#0",
+                            "website":"",
+                        "cover":"api/assets/img/riddimAI.png",
+                        "hoverCover": ""
+                        },
+                        {
+                            "title":"Spodify",
+                            "tags":"#React #Art #Fun",
+                            "github":"#0",
+                            "website":"",
+                        "cover":"api/assets/img/spodify.png",
+                        "hoverCover": ""
+                        },
+                        {
+                            "title":"Apni Dukan",
+                            "tags":"#EJS #NODE.js #Express #MongoDB",
+                            "github":"#0",
+                            "website":"#0",
+                        "cover":"api/assets/img/apniDukan.png",
+                        "hoverCover": ""
+                        },
+                        {
+                            "title":"Words Here",
+                            "tags":"#React #Image #Tool",
+                            "github":"#0",
+                            "website":"#0",
+                        "cover":"api/assets/img/wordHere.png",
+                        "hoverCover": "api/assets/img/wordHere-2.png"
+                        }
+                ]
+            }
+        },
+        "awards": {
+            "display": true,
+            "awards": [
+                {
+                    "position": "Most Creative Use of Twilio",
+                    "host": "NIT Rourkela",
+                    "hackathon": "HackNITR3.0 ",
+                    "date": "Oct'21",
+                    "moreInfo": "#"
+                },
+
+                {
+                    "position": "First Runners Up",
+                    "host": "Crystal Delta",
+                    "hackathon": "Hacked-to-Hired 2021",
+                    "date": "Jul'21",
+                    "moreInfo": "#"
+                },
+                {
+                    "position": "Best Social Good Hack",
+                    "host": "NIT Rourkela",
+                    "hackathon": "HackNITR 2.0",
+                    "date": "Mar'21",
+                    "moreInfo": "#"
+                },
+                
+                {
+                    "position": "Let's Stay Safe Winner",
+                    "host": "NITK Surathkal",
+                    "hackathon": "HackVerse 2.0",
+                    "date": "Feb'21",
+                    "moreInfo": "#"
+                },
+                {
+                    "position": "Top 10",
+                    "host": "IBM",
+                    "hackathon": "Reimagine <Future> Hackathon",
+                    "date": "jul'21",
+                    "moreInfo": "#"
+                }
+            ]
+        },
+        "contact": {
+            "title": "Get In Touch",
+            "description": "My inbox is always open. I'll do my best to respond to you, whether you have a question or just want to say hi!",
+            "buttonTitle": "Say Hello"
+        }
+    }
+}
