@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.06512e85.css",
-    "main.js": "/static/js/main.3df2dae3.js",
-    "static/js/787.4a7b631e.chunk.js": "/static/js/787.4a7b631e.chunk.js",
-    "static/media/vapourHill.jpg": "/static/media/vapourHill.2b09b598e6896cccc4e4.jpg",
-    "static/media/manTechnologist.png": "/static/media/manTechnologist.3a9ef320c1886183399c.png",
+    "main.css": "static/css/main.06512e85.css",
+    "main.js": "static/js/main.3df2dae3.js",
+    "static/js/787.4a7b631e.chunk.js": "static/js/787.4a7b631e.chunk.js",
+    "static/media/vapourHill.jpg": "static/media/vapourHill.2b09b598e6896cccc4e4.jpg",
+    "static/media/manTechnologist.png": "static/media/manTechnologist.3a9ef320c1886183399c.png",
     "index.html": "/index.html",
-    "main.06512e85.css.map": "/static/css/main.06512e85.css.map",
-    "main.3df2dae3.js.map": "/static/js/main.3df2dae3.js.map",
-    "787.4a7b631e.chunk.js.map": "/static/js/787.4a7b631e.chunk.js.map"
+    "main.06512e85.css.map": "static/css/main.06512e85.css.map",
+    "main.3df2dae3.js.map": "static/js/main.3df2dae3.js.map",
+    "787.4a7b631e.chunk.js.map": "static/js/787.4a7b631e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06512e85.css",
