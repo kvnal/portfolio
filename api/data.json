@@ -11,7 +11,7 @@
             "title2": "Developer;",
             "description": "I'm a <b class='text-sky-600'>software developer</b> based in 📍 Chennai, India. I enjoy delving into different areas of computer science and learning new frameworks and technologies! I have prior experience creating interactive digital experiences for the <b class='text-sky-600'>web and mobile platforms.</b>",
             "description-web": "Hello! My name is Kunal, and I'm a <b class='text-sky-600'>web developer</b> based in Chennai, India. I work with technologies and frameworks like React, Angular, Node.js, and Express, among others, to create <b class='text-sky-600'>interactive digital experiences</b> on the web.",
-            "resumeLink": "#0"
+            "resumeLink": "https://drive.google.com/file/d/1Qn38tcIuxgiGXztX1rqqTpLo8VZoajCM/view?usp=sharing"
         },
         "socials": {
             "mail": "ksnkunal@gmail.com",
@@ -25,110 +25,154 @@
                 "display": true,
                 "projects": [
                     {
-                        "title":"Sanskriti",
-                        "tags":"#Solidity #Vue.js #NODE.js #Face_Recog.",
-                        "github":"#0",
-                        "website":"#0",
-                        "cover":"api/assets/img/sanskriti.png",
+                        "title": "Sanskriti",
+                        "hackathon": "Best Social Good Hack at HackNITR 2.0 (NIT Rourkela)",
+                        "description": "Sanskriti (e-commerce site) is built on ETH network allowing local businesses to sell and buy products instanty without going through long process of verification (thanks to our Fast KYC process).",
+                        "startDate": "mar'21",
+                        "tags": "#Solidity #Vue.js #NODE.js #Face-Recognition",
+                        "github": "https://github.com/kvnal/Sanskriti/tree/Somboi",
+                        "website": "#0",
+                        "cover": "api/assets/img/sanskriti.png",
                         "hoverCover": "api/assets/img/sanskriti-2.png"
-
-                    },                
+                    },
                     {
-                        "title":"Edlance",
-                        "tags":"#EJS #Solidity #Express #NODE.js",
-                        "github":"#0",
-                        "website":"",
-                        "cover":"api/assets/img/edlance.png",
+                        "title": "Edlance",
+                        "hackathon": "First Runners Up at Hacked-to-Hired 2021 (Crystal Delta)",
+                        "description": "Ask your doubts. solve others' doubts. and ...Stonks! earn Ethers (ETH) A platform to ask, solve and earn money 📈",
+                        "startDate": "jun'21",
+                        "tags": "#EJS #Solidity #Express #NODE.js",
+                        "github": "https://github.com/kvnal/Edlance-v1.0",
+                        "website": "http://test-edlance.herokuapp.com/",
+                        "cover": "api/assets/img/edlance.png",
                         "hoverCover": "api/assets/img/edlance-2.png"
-                    },                
+                    },
                     {
-                        "title":"Sentinel",
-                        "tags":"#MERN #NODE-RED #Twilio #Socket.io",
-                        "github":"#0",
-                        "website":"#0",
-                        "cover":"api/assets/img/sentinel.png",
+                        "title": "Sentinel",
+                        "hackathon": "Most Creative Use of Twilio at HackNITR 3.0 (NIT Rourkela)",
+                        "description": "Sentinel (Automated Home Security at Your Fingertips) a project that makes our lives more secure. Our solution takes inspiration from current trends in home security automation and puts it together with a facility management application.",
+                        "startDate": "oct'21",
+                        "tags": "#MERN #NODE-RED #Twilio #Socket.io",
+                        "github": "https://github.com/kvnal/Sentinel-v1.0",
+                        "website": "#0",
+                        "cover": "api/assets/img/sentinel.png",
                         "hoverCover": "api/assets/img/sentinel-2.png"
-                    },                
+                    },
                     {
-                        "title":"Safe Home",
-                        "tags":"#NODE-RED #NODE.js #HTML/Js",
-                        "github":"#0",
-                        "website":"",
-                        "cover":"api/assets/img/safeHome.png",
+                        "title": "Safe Home",
+                        "hackathon": "\"Track Prize- Let's Stay Safe\" at HackVerse 2.0 (NITK Surathkal)",
+                        "description": "Safe Home is designed to conveniently manage and monitor house appliances remotely with addition security feautures, to save time and to use resources effectively.",
+                        "startDate": "feb'21",
+                        "tags": "#NODE-RED #NODE.js #HTML/Js",
+                        "github": "#0",
+                        "website": "https://kvnal.github.io/nuv-frontend-safeHome/",
+                        "cover": "api/assets/img/safeHome.png",
                         "hoverCover": "api/assets/img/safeHome-2.png"
-                    }                
+                    }
                 ]
             },
             "other": {
                 "display": true,
                 "projects": [
                     {
-                        "title":"FitStep",
-                        "tags":"#Kotlin #Firebase #XML",
-                        "github":"#0",
-                        "website":"#0",
-                    "cover":"api/assets/img/fitStep.png",
-                    "hoverCover": "api/assets/img/fitStep-2.png"
+                        "title": "FitStep",
+                        "description": "A fitness android app that aims to save device memory space and user time by bringing all of the common features required by a fitness enthusiast together in one place. Features: stopwatch, Fitness Activity Tracker, Online Shopping, Music, Fitness Blogs, BMI & Calorie Calculator, Meditation etc.",
+                        "startDate": "Aug'20",
+                        "tags": "#Kotlin #Firebase #XML",
+                        "github": "https://github.com/kvnal/fitstep",
+                        "website": "#0",
+                        "cover": "api/assets/img/fitStep.png",
+                        "hoverCover": "api/assets/img/fitStep-2.png"
                     },
-                        
                     {
-                        "title":"Spodify Jersey Edition",
-                        "tags":"#React #Art #Fun",
-                        "github":"#0",
-                        "website":"#0",
-                    "cover":"api/assets/img/spodifyJersey.png",
-                    "hoverCover": "api/assets/img/spodifyJersey-2.png"
+                        "title": "Spodify Jersey Edition",
+                        "description": "A website that lets you to customise Dolan's meme character by applying different brushes, choosing new outfits, and so on.",
+                        "startDate": "May'21",
+                        "tags": "#React #Art #Fun #Game",
+                        "github": "https://github.com/kvnal/spodify-jersey-edition",
+                        "website": "https://kvnal.github.io/spodify-jersey-edition/",
+                        "cover": "api/assets/img/spodifyJersey.png",
+                        "hoverCover": "api/assets/img/spodifyJersey-2.png"
                     },
-
-                        
-                        {
-                            "title":"Catch Me If You Can",
-                            "tags":"#Game #Fun #Useless",
-                            "github":"#0",
-                            "website":"#0",
-                        "cover":"api/assets/img/cmiuc.png",
+                    {
+                        "title": "Catch Me If You Can",
+                        "description": "Useless game 🔰 Based on Samurai Doge Master 🎴 🏯.",
+                        "startDate": "May'21",
+                        "tags": "#Game #Fun #Useless",
+                        "github": "https://github.com/kvnal/catch-me-if-you-can",
+                        "website": "https://kvnal.github.io/catch-me-if-you-can",
+                        "cover": "api/assets/img/cmiuc.png",
                         "hoverCover": "api/assets/img/cmiuc-2.png"
-                        },
-                        {
-                            "title":"Only Cheems",
-                            "tags":"#MERN #Video_Sharing",
-                            "github":"#0",
-                            "website":"#0",
-                        "cover":"api/assets/img/onlyCheems.png",
+                    },
+                    {
+                        "title": "Only Cheems",
+                        "description": "An Instagram x Netflix Clone, based on popular social media Meme Doge and Cheems, which allows meme video creators to showcase their videos at one place! (Statistics: +9 Creators registered with 150+ unique website visitor every month).",
+                        "startDate": "Jul'21",
+                        "tags": "#MERN #Video_Sharing",
+                        "github": "#0",
+                        "website": "https://onlycheems.herokuapp.com/",
+                        "cover": "api/assets/img/onlyCheems.png",
                         "hoverCover": "api/assets/img/onlyCheems-2.png"
                     },
-                        {
-                            "title":"Riddim Ai",
-                            "tags":"#React #TensorFlow #AI #Music",
-                            "github":"#0",
-                            "website":"",
-                        "cover":"api/assets/img/riddimAI.png",
+                    {
+                        "title": "My portfolio website",
+                        "description": "crafted with ❤",
+                        "startDate": "jan'22",
+                        "tags": "#React #TailwindCss #AdobeXD",
+                        "github": "#0",
+                        "website": "/",
+                        "cover": "api/assets/img/portfolio.png",
+                        "hoverCover": "api/assets/img/portfolio-2.png"
+                    },
+                    {
+                        "title": "Finger tap battle",
+                        "description": "A stupid game of finger tapping 👆🤺. Inspired by a game seen from a viral TikTok video.",
+                        "startDate": "Mar'22",
+                        "tags": "#Game #Fun #Useless #Multiplayer",
+                        "github": "https://github.com/kvnal/finger-tap-battle",
+                        "website": "https://kvnal.github.io/finger-tap-battle/",
+                        "cover": "api/assets/img/ftb.png",
+                        "hoverCover": "api/assets/img/ftb-2.png"
+                    },
+                    {
+                        "title": "Riddim Ai",
+                        "description": "A website that generates piano melodies based on your emotions.",
+                        "startDate": "May'21",
+                        "tags": "#React #TensorFlow #AI #Music",
+                        "github": "https://github.com/kvnal/riddim-ai",
+                        "website": "https://kvnal.github.io/riddim-ai",
+                        "cover": "api/assets/img/riddimAi.png",
                         "hoverCover": ""
-                        },
-                        {
-                            "title":"Spodify",
-                            "tags":"#React #Art #Fun",
-                            "github":"#0",
-                            "website":"",
-                        "cover":"api/assets/img/spodify.png",
+                    },
+                    {
+                        "title": "Spodify",
+                        "description": "A website that lets you to customise Dolan's meme character.",
+                        "startDate": "May'21",
+                        "tags": "#React #Art #Fun",
+                        "github": "https://github.com/kvnal/spodify",
+                        "website": "https://kvnal.github.io/spodify",
+                        "cover": "api/assets/img/spodify.png",
                         "hoverCover": ""
-                        },
-                        {
-                            "title":"Apni Dukan",
-                            "tags":"#EJS #NODE.js #Express #MongoDB",
-                            "github":"#0",
-                            "website":"#0",
-                        "cover":"api/assets/img/apniDukan.png",
+                    },
+                    {
+                        "title": "Apni Dukan",
+                        "description": "e-commerce platform for buying and selling handcrafted items.",
+                        "startDate": "Jul'21",
+                        "tags": "#EJS #NODE.js #Express #MongoDB",
+                        "github": "https://github.com/kvnal/apni-dukan",
+                        "website": "https://kvnal.github.io/words/",
+                        "cover": "api/assets/img/apniDukan.png",
                         "hoverCover": ""
-                        },
-                        {
-                            "title":"Words Here",
-                            "tags":"#React #Image #Tool",
-                            "github":"#0",
-                            "website":"#0",
-                        "cover":"api/assets/img/wordHere.png",
+                    },
+                    {
+                        "title": "Words Here",
+                        "description": "A simple website that converts words/Text into images for Instagram stories, Facebook posts, and Twitter banners.",
+                        "startDate": "Apr'21",
+                        "tags": "#React #Image #Tool",
+                        "github": "https://github.com/kvnal/words",
+                        "website": "#0",
+                        "cover": "api/assets/img/wordHere.png",
                         "hoverCover": "api/assets/img/wordHere-2.png"
-                        }
+                    }
                 ]
             }
         },
@@ -140,37 +184,35 @@
                     "host": "NIT Rourkela",
                     "hackathon": "HackNITR3.0 ",
                     "date": "Oct'21",
-                    "moreInfo": "#"
+                    "moreInfo": "https://devfolio.co/projects/sentinel-6cdf"
                 },
-
                 {
                     "position": "First Runners Up",
                     "host": "Crystal Delta",
                     "hackathon": "Hacked-to-Hired 2021",
                     "date": "Jul'21",
-                    "moreInfo": "#"
+                    "moreInfo": "https://www.linkedin.com/feed/update/urn:li:activity:6823605159487180800/"
                 },
                 {
                     "position": "Best Social Good Hack",
                     "host": "NIT Rourkela",
                     "hackathon": "HackNITR 2.0",
                     "date": "Mar'21",
-                    "moreInfo": "#"
+                    "moreInfo": "https://devfolio.co/projects/sanskriti-87c5"
                 },
-                
                 {
                     "position": "Let's Stay Safe Winner",
                     "host": "NITK Surathkal",
                     "hackathon": "HackVerse 2.0",
                     "date": "Feb'21",
-                    "moreInfo": "#"
+                    "moreInfo": "https://devfolio.co/projects/safe-home-975a"
                 },
                 {
                     "position": "Top 10",
                     "host": "IBM",
                     "hackathon": "Reimagine <Future> Hackathon",
                     "date": "jul'21",
-                    "moreInfo": "#"
+                    "moreInfo": "https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?login=b4ff6de15f94750b6351a9b0b09ea47f"
                 }
             ]
         },
