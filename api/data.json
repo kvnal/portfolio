@@ -95,7 +95,7 @@
                     },
                     {
                         "title": "Catch Me If You Can",
-                        "description": "Useless game 🔰 Based on Samurai Doge Master 🎴 🏯.",
+                        "description": "Endless game 🔰 Based on Samurai Doge Master 🎴 🏯.",
                         "startDate": "May'21",
                         "tags": "#Game #Fun #Useless",
                         "github": "https://github.com/kvnal/catch-me-if-you-can",
@@ -125,7 +125,7 @@
                     },
                     {
                         "title": "Finger tap battle",
-                        "description": "A stupid game of finger tapping 👆🤺. Inspired by a game seen from a viral TikTok video.",
+                        "description": "A duo-player game of finger tapping 👆🤺. Inspired by a game seen from a viral TikTok video.",
                         "startDate": "Mar'22",
                         "tags": "#Game #Fun #Useless #Multiplayer",
                         "github": "https://github.com/kvnal/finger-tap-battle",
@@ -214,7 +214,8 @@
                     "date": "jul'21",
                     "moreInfo": "https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?login=b4ff6de15f94750b6351a9b0b09ea47f"
                 }
-            ]
+            ],
+            "picture" :"api/assets/img/other/hackathon.png"
         },
         "contact": {
             "title": "Get In Touch",
