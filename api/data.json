@@ -47,6 +47,17 @@
                         "hoverCover": "api/assets/img/edlance-2.png"
                     },
                     {
+                        "title": "Sheesh.",
+                        "hackathon": "Overall Third-Place Winner & Most Creative Use of Twilio  at Devspace 2022 (VIT Vellore)",
+                        "description": "An app with the aim of uniting and encouraging college students by creating a community, meeting individuals with similar interests, and learning about what's going on at their campus where students can connect and grow.",
+                        "startDate": "Apr'22",
+                        "tags": "#MERN #IPFS #EJS #Twilio",
+                        "github": "https://github.com/kvnal/sheesh",
+                        "website": "#0",
+                        "cover": "api/assets/img/sheesh.png",
+                        "hoverCover": "api/assets/img/sheesh-2.png"
+                    },
+                    {
                         "title": "Sentinel",
                         "hackathon": "Most Creative Use of Twilio at HackNITR 3.0 (NIT Rourkela)",
                         "description": "Sentinel (Automated Home Security at Your Fingertips) a project that makes our lives more secure. Our solution takes inspiration from current trends in home security automation and puts it together with a facility management application.",
@@ -56,17 +67,6 @@
                         "website": "#0",
                         "cover": "api/assets/img/sentinel.png",
                         "hoverCover": "api/assets/img/sentinel-2.png"
-                    },
-                    {
-                        "title": "Safe Home",
-                        "hackathon": "\"Track Prize- Let's Stay Safe\" at HackVerse 2.0 (NITK Surathkal)",
-                        "description": "Safe Home is designed to conveniently manage and monitor house appliances remotely with addition security feautures, to save time and to use resources effectively.",
-                        "startDate": "feb'21",
-                        "tags": "#NODE-RED #NODE.js #HTML/Js",
-                        "github": "#0",
-                        "website": "https://kvnal.github.io/nuv-frontend-safeHome/",
-                        "cover": "api/assets/img/safeHome.png",
-                        "hoverCover": "api/assets/img/safeHome-2.png"
                     }
                 ]
             },
@@ -84,14 +84,15 @@
                         "hoverCover": "api/assets/img/fitStep-2.png"
                     },
                     {
-                        "title": "Spodify Jersey Edition",
-                        "description": "A website that lets you to customise Dolan's meme character by applying different brushes, choosing new outfits, and so on.",
-                        "startDate": "May'21",
-                        "tags": "#React #Art #Fun #Game",
-                        "github": "https://github.com/kvnal/spodify-jersey-edition",
-                        "website": "https://kvnal.github.io/spodify-jersey-edition/",
-                        "cover": "api/assets/img/spodifyJersey.png",
-                        "hoverCover": "api/assets/img/spodifyJersey-2.png"
+                        "title": "Safe Home",
+                        "hackathon": "\"Track Prize- Let's Stay Safe\" at HackVerse 2.0 (NITK Surathkal)",
+                        "description": "Safe Home is designed to conveniently manage and monitor house appliances remotely with addition security feautures, to save time and to use resources effectively.",
+                        "startDate": "feb'21",
+                        "tags": "#NODE-RED #NODE.js #HTML/Js",
+                        "github": "#0",
+                        "website": "https://kvnal.github.io/nuv-frontend-safeHome/",
+                        "cover": "api/assets/img/safeHome.png",
+                        "hoverCover": "api/assets/img/safeHome-2.png"
                     },
                     {
                         "title": "Catch Me If You Can",
@@ -132,6 +133,16 @@
                         "website": "https://kvnal.github.io/finger-tap-battle/",
                         "cover": "api/assets/img/ftb.png",
                         "hoverCover": "api/assets/img/ftb-2.png"
+                    },
+                    {
+                        "title": "Spodify Jersey Edition",
+                        "description": "A website that lets you to customise Dolan's meme character by applying different brushes, choosing new outfits, and so on.",
+                        "startDate": "May'21",
+                        "tags": "#React #Art #Fun #Game",
+                        "github": "https://github.com/kvnal/spodify-jersey-edition",
+                        "website": "https://kvnal.github.io/spodify-jersey-edition/",
+                        "cover": "api/assets/img/spodifyJersey.png",
+                        "hoverCover": "api/assets/img/spodifyJersey-2.png"
                     },
                     {
                         "title": "Riddim Ai",
@@ -180,6 +191,13 @@
             "display": true,
             "awards": [
                 {
+                    "position": "Overall Third-Place Winner",
+                    "host": "CSI VIT Vellore",
+                    "hackathon": "Devspace 2022 ",
+                    "date": "Apr'22",
+                    "moreInfo": "https://devpost.com/software/sheesh-ideation-ppt"
+                },
+                {
                     "position": "Most Creative Use of Twilio",
                     "host": "NIT Rourkela",
                     "hackathon": "HackNITR3.0 ",
@@ -206,16 +224,9 @@
                     "hackathon": "HackVerse 2.0",
                     "date": "Feb'21",
                     "moreInfo": "https://devfolio.co/projects/safe-home-975a"
-                },
-                {
-                    "position": "Top 10",
-                    "host": "IBM",
-                    "hackathon": "Reimagine <Future> Hackathon",
-                    "date": "jul'21",
-                    "moreInfo": "https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?login=b4ff6de15f94750b6351a9b0b09ea47f"
                 }
             ],
-            "picture" :"api/assets/img/other/hackathon.png"
+            "picture": "api/assets/img/other/hackathon.png"
         },
         "contact": {
             "title": "Get In Touch",
