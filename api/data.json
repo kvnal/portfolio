@@ -32,8 +32,8 @@
                         "tags": "#Solidity #Vue.js #NODE.js #Face-Recognition",
                         "github": "https://github.com/kvnal/Sanskriti/tree/Somboi",
                         "website": "#0",
-                        "cover": "api/assets/img/sanskriti.png",
-                        "hoverCover": "api/assets/img/sanskriti-2.png"
+                        "cover": "api/assets/img/sanskriti.webp",
+                        "hoverCover": "api/assets/img/sanskriti-2.webp"
                     },
                     {
                         "title": "Edlance",
@@ -43,8 +43,8 @@
                         "tags": "#EJS #Solidity #Express #NODE.js",
                         "github": "https://github.com/kvnal/Edlance-v1.0",
                         "website": "http://test-edlance.herokuapp.com/",
-                        "cover": "api/assets/img/edlance.png",
-                        "hoverCover": "api/assets/img/edlance-2.png"
+                        "cover": "api/assets/img/edlance.webp",
+                        "hoverCover": "api/assets/img/edlance-2.webp"
                     },
                     {
                         "title": "Sheesh.",
@@ -54,8 +54,8 @@
                         "tags": "#MERN #IPFS #EJS #Twilio",
                         "github": "https://github.com/kvnal/sheesh",
                         "website": "#0",
-                        "cover": "api/assets/img/sheesh.png",
-                        "hoverCover": "api/assets/img/sheesh-2.png"
+                        "cover": "api/assets/img/sheesh.webp",
+                        "hoverCover": "api/assets/img/sheesh-2.webp"
                     },
                     {
                         "title": "Sentinel",
@@ -65,8 +65,8 @@
                         "tags": "#MERN #NODE-RED #Twilio #Socket.io",
                         "github": "https://github.com/kvnal/Sentinel-v1.0",
                         "website": "#0",
-                        "cover": "api/assets/img/sentinel.png",
-                        "hoverCover": "api/assets/img/sentinel-2.png"
+                        "cover": "api/assets/img/sentinel.webp",
+                        "hoverCover": "api/assets/img/sentinel-2.webp"
                     }
                 ]
             },
@@ -80,8 +80,8 @@
                         "tags": "#Kotlin #Firebase #XML",
                         "github": "https://github.com/kvnal/fitstep",
                         "website": "#0",
-                        "cover": "api/assets/img/fitStep.png",
-                        "hoverCover": "api/assets/img/fitStep-2.png"
+                        "cover": "api/assets/img/fitStep.webp",
+                        "hoverCover": "api/assets/img/fitStep-2.webp"
                     },
                     {
                         "title": "Safe Home",
@@ -91,8 +91,8 @@
                         "tags": "#NODE-RED #NODE.js #HTML/Js",
                         "github": "#0",
                         "website": "https://kvnal.github.io/nuv-frontend-safeHome/",
-                        "cover": "api/assets/img/safeHome.png",
-                        "hoverCover": "api/assets/img/safeHome-2.png"
+                        "cover": "api/assets/img/safeHome.webp",
+                        "hoverCover": "api/assets/img/safeHome-2.webp"
                     },
                     {
                         "title": "Catch Me If You Can",
@@ -101,8 +101,8 @@
                         "tags": "#Game #Fun #Useless",
                         "github": "https://github.com/kvnal/catch-me-if-you-can",
                         "website": "https://kvnal.github.io/catch-me-if-you-can",
-                        "cover": "api/assets/img/cmiuc.png",
-                        "hoverCover": "api/assets/img/cmiuc-2.png"
+                        "cover": "api/assets/img/cmiuc.webp",
+                        "hoverCover": "api/assets/img/cmiuc-2.webp"
                     },
                     {
                         "title": "Only Cheems",
@@ -111,8 +111,8 @@
                         "tags": "#MERN #Video_Sharing",
                         "github": "#0",
                         "website": "https://onlycheems.herokuapp.com/",
-                        "cover": "api/assets/img/onlyCheems.png",
-                        "hoverCover": "api/assets/img/onlyCheems-2.png"
+                        "cover": "api/assets/img/onlyCheems.webp",
+                        "hoverCover": "api/assets/img/onlyCheems-2.webp"
                     },
                     {
                         "title": "My portfolio website",
@@ -121,8 +121,8 @@
                         "tags": "#React #TailwindCss #AdobeXD",
                         "github": "#0",
                         "website": "/",
-                        "cover": "api/assets/img/portfolio.png",
-                        "hoverCover": "api/assets/img/portfolio-2.png"
+                        "cover": "api/assets/img/portfolio.webp",
+                        "hoverCover": "api/assets/img/portfolio-2.webp"
                     },
                     {
                         "title": "Finger tap battle",
@@ -131,8 +131,8 @@
                         "tags": "#Game #Fun #Useless #Multiplayer",
                         "github": "https://github.com/kvnal/finger-tap-battle",
                         "website": "https://kvnal.github.io/finger-tap-battle/",
-                        "cover": "api/assets/img/ftb.png",
-                        "hoverCover": "api/assets/img/ftb-2.png"
+                        "cover": "api/assets/img/ftb.webp",
+                        "hoverCover": "api/assets/img/ftb-2.webp"
                     },
                     {
                         "title": "Spodify Jersey Edition",
@@ -141,8 +141,8 @@
                         "tags": "#React #Art #Fun #Game",
                         "github": "https://github.com/kvnal/spodify-jersey-edition",
                         "website": "https://kvnal.github.io/spodify-jersey-edition/",
-                        "cover": "api/assets/img/spodifyJersey.png",
-                        "hoverCover": "api/assets/img/spodifyJersey-2.png"
+                        "cover": "api/assets/img/spodifyJersey.webp",
+                        "hoverCover": "api/assets/img/spodifyJersey-2.webp"
                     },
                     {
                         "title": "Riddim Ai",
@@ -151,7 +151,7 @@
                         "tags": "#React #TensorFlow #AI #Music",
                         "github": "https://github.com/kvnal/riddim-ai",
                         "website": "https://kvnal.github.io/riddim-ai",
-                        "cover": "api/assets/img/riddimAi.png",
+                        "cover": "api/assets/img/riddimAi.webp",
                         "hoverCover": ""
                     },
                     {
@@ -161,7 +161,7 @@
                         "tags": "#React #Art #Fun",
                         "github": "https://github.com/kvnal/spodify",
                         "website": "https://kvnal.github.io/spodify",
-                        "cover": "api/assets/img/spodify.png",
+                        "cover": "api/assets/img/spodify.webp",
                         "hoverCover": ""
                     },
                     {
@@ -170,8 +170,8 @@
                         "startDate": "Jul'21",
                         "tags": "#EJS #NODE.js #Express #MongoDB",
                         "github": "https://github.com/kvnal/apni-dukan",
-                        "website": "https://kvnal.github.io/words/",
-                        "cover": "api/assets/img/apniDukan.png",
+                        "website": "#0",
+                        "cover": "api/assets/img/apniDukan.webp",
                         "hoverCover": ""
                     },
                     {
@@ -180,9 +180,9 @@
                         "startDate": "Apr'21",
                         "tags": "#React #Image #Tool",
                         "github": "https://github.com/kvnal/words",
-                        "website": "#0",
-                        "cover": "api/assets/img/wordHere.png",
-                        "hoverCover": "api/assets/img/wordHere-2.png"
+                        "website": "https://kvnal.github.io/words/",
+                        "cover": "api/assets/img/wordHere.webp",
+                        "hoverCover": "api/assets/img/wordHere-2.webp"
                     }
                 ]
             }
